@@ -1,0 +1,6 @@
+var peter = {
+  "surname" : "cashen",
+  "age" : "35",
+	"city" : "Liverpool, UK",
+	"gender" : "male"
+};
